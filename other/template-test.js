@@ -5,7 +5,7 @@
 // 3. Change submitted from `false` to `true`
 // 4. And you're all done!
 /*
-http://ws.kcd.im/?ws=ASTs&e=&em=
+http://ws.kcd.im/?ws=ASTs&e=&em=wtlin1228@gmail.com
 */
 test.skip('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
